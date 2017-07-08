@@ -1,0 +1,25 @@
+ Computers are made up of Hardware and Software
+Hardware
+Tangible objects
+Can be inside or outside the Computer 
+CPU, RAM, and Hard Disk
+CPU = Central Processing Unit
+Like a Human Brain
+RAM = Random Access Memory
+Like a Scratch pad for temporary work that can thrown away later
+Hard Disk = A disk with large storage capacity
+Like a notepad or diary used to save numbers and names
+Software
+One will interact with software directly to get things done
+Also known as programs
+Operating System = A Program
+Special software used to start the computer
+The main software used to interact with other programs. 
+Program = a series of steps / series of actions / series of instructions
+Decimal System
+Every number is between 0-9 with a base of 10.
+10 is known as deca hence decimal
+Binary System
+Every number is either 1 or 2 with a base of 2
+To convert Binary into Decimal expand each digit with it’s place value and base 2
+To convert Decimal into Binary split the number in multiples of 2
