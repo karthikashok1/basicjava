@@ -1,0 +1,18 @@
+variables can change values by assigning itself to another value
+Constants never change
+In Java programming you need to tell the program what kind of data you need.
+Syntax is grammar for programming
+
+ if( anything that evaluates to true/false){
+
+    }else if(anything that evaluates to true/false){
+
+    }else{
+        // Anything does not match above.
+    }
+single = it is called assignment
+double == it is called comparison
+  
+for( initialiation_onetime ; condition_which_should_return_true_or_false ; do_some_increment_which_runs_for_each_loop){
+        somestatements_which_will_execute_aslongas_theconditionis_true
+    }
