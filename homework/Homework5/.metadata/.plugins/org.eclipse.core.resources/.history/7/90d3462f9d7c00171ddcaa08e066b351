@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Application {
+
+	public static void main(String[] args) 
+	{
+		// Getting User Input
+		System.out.println("How many laps?");
+		Scanner sLapRun = new Scanner(System.in);
+		int iLapRun = sLapRun.nextInt();
+		int iCtr = 0;
+		int iTotalTime=0;
+
+		// Looping
+		for (iCtr = 1; iCtr <= iLapRun; iCtr++) 
+		{
+			System.out.println("How much time taken for lap " + iCtr);
+			Scanner sLapTime = new Scanner(System.in);
+			int iLapTime = sLapTime.nextInt();
+			iTotalTime += iLapRun + iLapTime;
+		}
+		// Print Final Output
+		System.out.println( "Time taken total = " + iTotalTime );
+	}
+
+}
